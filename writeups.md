@@ -1,4 +1,3 @@
-# Writeups
 
 All writeups are based on intentionally vulnerable labs and retired machines.
 
