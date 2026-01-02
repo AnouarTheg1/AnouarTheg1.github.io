@@ -1,4 +1,3 @@
-# Junior Penetration Tester
 
 [About](about.md)  | [Writeups](writeups.md) | [Contact](contact.md)
 
