@@ -1,4 +1,3 @@
-# About Me
 
 I am a junior penetration tester with an eJPT certification.
 
