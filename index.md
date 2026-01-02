@@ -1,5 +1,7 @@
-
+# AnouarTheG
 [About](about.md)  | [Writeups](writeups.md) | [Contact](contact.md)
+
+---
 
 I am a junior penetration tester with an eJPT certification, focusing on learning practical offensive security fundamentals, web application testing, and system enumeration.
 
