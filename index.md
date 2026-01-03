@@ -1,4 +1,6 @@
-# AnouarTheG
+---
+title: AnouarTheG
+---
 [About](about.md)  | [Writeups](writeups.md) | [Contact](contact.md)
 
 ---
