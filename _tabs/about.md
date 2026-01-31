@@ -18,5 +18,4 @@ I'm a passionate cybersecurity penetration tester
 - **Languages:** Python, Bash, PowerShell, C
 - **Platforms:** Linux, Windows, Proxmox
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
