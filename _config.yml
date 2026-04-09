@@ -94,7 +94,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://github.com/AnouarTheg1/media/blob/main/carti.jpg?raw=true
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://github.com/AnouarTheg1/media/blob/main/carti.jpg?raw=true
