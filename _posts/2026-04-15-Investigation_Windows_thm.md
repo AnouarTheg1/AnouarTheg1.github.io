@@ -20,8 +20,8 @@ Let's dive in.
 We start by opening PowerShell. The `Get-ComputerInfo` cmdlet reveals everything about the system, but that's too much information. Let's filter for OS-related properties only:
 **"Get-ComputerInfo -Property "Os"**
 ![image 1](https://github.com/AnouarTheg1/media/blob/main/Capture%20d'%C3%A9cran%202026-04-15%20192149.png?raw=true)
-Answer: Windows Server 2016
 
+Answer: Windows Server 2016
 ### 2. User Login Analysis
 **Question:** Which user logged in last?
 
@@ -39,7 +39,6 @@ net user Jenny | findstr "Last"**
 The Administrator account shows the most recent login.
 
 Answer: Administrator
-
 ### 3. John's Last Logon
 **Question:** When did John log onto the system last?
 Format: MM/DD/YYYY H:MM:SS AM/PM
@@ -157,9 +156,9 @@ Open Windows Defender Firewall with Advanced Security (Start → type "firewall"
 Click Inbound Rules on the left. Then click Filter by Group on the right and select Rules without a Group.
 Two rules remain. One looks suspicious: Allow outside connections for development. Double-click it, go to the Protocols and Ports tab, and look at the Local Port.
 ![image 12](https://github.com/AnouarTheg1/media/blob/main/Capture%20d'%C3%A9cran%202026-04-15%20201547.png?raw=true)
-Answer: 1337
-
-
+ 
+ **Answer: 1337**
 
 Room:`https://tryhackme.com/room/investigatingwindows`
 
+![gif 1](https://us1.discourse-cdn.com/spiceworks/original/4X/8/8/0/8800ada62be1bec174e56b79caebd83a19f72752.gif)
