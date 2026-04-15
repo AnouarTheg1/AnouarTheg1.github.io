@@ -9,7 +9,10 @@ tags: [THM, Forensics, Windows, SOC]
 
 This room simulates a real world forensic investigation of a compromised Windows Server. Using only native Windows tools (PowerShell, Registry Editor, Event Viewer, and the command line), we'll uncover persistence mechanisms, identify the attacker's actions, and piece together the timeline of the breach.
 
-Let's dive in.
+ Let's dive in.
+
+ 
+  ![gif 1](https://blog.netnerds.net/images/hacker.gif)
 
 ---
 
@@ -159,6 +162,7 @@ Two rules remain. One looks suspicious: Allow outside connections for developmen
  
  **Answer: 1337**
 
-Room:`https://tryhackme.com/room/investigatingwindows`
+![gif 2](https://us1.discourse-cdn.com/spiceworks/original/4X/8/8/0/8800ada62be1bec174e56b79caebd83a19f72752.gif)
 
-![gif 1](https://us1.discourse-cdn.com/spiceworks/original/4X/8/8/0/8800ada62be1bec174e56b79caebd83a19f72752.gif)
+
+Room:              `https://tryhackme.com/room/investigatingwindows`
