@@ -12,7 +12,7 @@ This room simulates a real world forensic investigation of a compromised Windows
  Let's dive in.
 
  
-  ![gif 1](https://blog.netnerds.net/images/hacker.gif)
+![gif 1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGViOGJ1NjBjNjIxc3lzbWxqMmh3Y3hjb3I3YnJyb2hpMzRuMW12dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)
 
 ---
 
