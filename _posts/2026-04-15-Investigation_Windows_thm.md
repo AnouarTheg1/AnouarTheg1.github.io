@@ -162,7 +162,7 @@ Two rules remain. One looks suspicious: Allow outside connections for developmen
  
  **Answer: 1337**
 
-![gif 2](https://us1.discourse-cdn.com/spiceworks/original/4X/8/8/0/8800ada62be1bec174e56b79caebd83a19f72752.gif)
+![gif 2](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpua2Frb2Uwd2NkaGY4bG9ydzR2YTVlYncycWYwcTN5djZpZnRzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4rPM934CLIvC/giphy.gif)
 
 
 Room:              `https://tryhackme.com/room/investigatingwindows`
